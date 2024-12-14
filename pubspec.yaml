@@ -4,7 +4,7 @@ version: 0.0.1
 homepage: https://github.com/the-flx/flx_dart
 
 environment:
-  sdk: ^3.7.0-243.0.dev
+  sdk: ^3.6.0
   flutter: ">=1.17.0"
 
 dependencies:
