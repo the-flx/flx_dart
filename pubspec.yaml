@@ -1,4 +1,4 @@
-name: flx
+name: the_flx
 description: "Rewrite emacs-flx in Dart"
 version: 0.0.1
 homepage: https://github.com/the-flx/flx_dart
