@@ -1,42 +1,21 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Release](https://img.shields.io/github/tag/the-flx/flx_dart.svg?label=release&logo=github)](https://github.com/the-flx/flx_dart/releases/latest)
 
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# flx_dart
+> Rewrite emacs-flx in Dart
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/tools/pub/writing-package-pages).
+## 🔨 Usage
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/to/develop-packages).
--->
+WIP.
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+## ⚜️ License
 
-## Features
+`flx_dart` is distributed under the terms of the MIT license.
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+See [`LICENSE`](./LICENSE) for details.
 
-## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+<!-- Links -->
 
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
-```dart
-const like = 'sample';
-```
-
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+[flx]: https://github.com/lewang/flx
+[Emacs]: https://www.gnu.org/software/emacs/
