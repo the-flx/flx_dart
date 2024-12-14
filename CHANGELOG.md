@@ -1,3 +1,16 @@
-## 0.0.1
+# Change Log
 
-* TODO: Describe initial release.
+All notable changes to this project will be documented in this file.
+
+Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+
+
+## 0.1.0 (Unreleased)
+> Released N/A
+
+* N/A
+
+## 0.0.1
+> Released Dec 14, 2024
+
+* Test release; nothing has implemented.
