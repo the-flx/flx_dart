@@ -4,6 +4,8 @@
 # flx_dart
 > Rewrite emacs-flx in Dart
 
+[![CI](https://github.com/the-flx/flx_dart/actions/workflows/test.yml/badge.svg)](https://github.com/the-flx/flx_dart/actions/workflows/test.yml)
+
 ## 🔨 Usage
 
 ```dart
