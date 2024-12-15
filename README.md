@@ -6,7 +6,10 @@
 
 ## 🔨 Usage
 
-WIP.
+```dart
+Result? result = Flx.score("switch-to-buffer", "stb");
+print(result?.score); // 237
+```
 
 ## ⚜️ License
 
