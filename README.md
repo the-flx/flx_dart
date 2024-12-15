@@ -7,6 +7,8 @@
 
 [![CI](https://github.com/the-flx/flx_dart/actions/workflows/test.yml/badge.svg)](https://github.com/the-flx/flx_dart/actions/workflows/test.yml)
 
+*📝 P.S. The name `flx` is already taken, so we had to choose a different name. We decided on `the_flx`.*
+
 ## 🔨 Usage
 
 ```dart
