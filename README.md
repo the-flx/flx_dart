@@ -1,6 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Release](https://img.shields.io/github/tag/the-flx/flx_dart.svg?label=release&logo=github)](https://github.com/the-flx/flx_dart/releases/latest)
-![Pub Publisher](https://img.shields.io/pub/publisher/the_flx?logo=dart&logoColor=29B6F6)
 [![pub package](https://img.shields.io/pub/v/the_flx.svg?logo=dart&logoColor=29B6F6)](https://pub.dev/packages/the_flx)
 
 # flx_dart
