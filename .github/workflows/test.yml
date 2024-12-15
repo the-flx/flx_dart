@@ -26,10 +26,8 @@ jobs:
       uses: subosito/flutter-action@main
       with:
         channel: stable
-        flutter-version: 3.19.0
+        flutter-version: 3.27.0
 
     - name: Run tests
       run: |
-        flutter pub get
-        flutter upgrade
         flutter test
