@@ -16,6 +16,14 @@ Result? result = Flx.score("switch-to-buffer", "stb");
 print(result?.score); // 237
 ```
 
+## 🛠️ Development
+
+To run tests:
+
+```sh
+$ flutter test
+```
+
 ## ⚜️ License
 
 `flx_dart` is distributed under the terms of the MIT license.
