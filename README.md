@@ -1,4 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Flutter Version](https://img.shields.io/badge/Flutter-3.27.0+-03579A.svg?logo=flutter)](https://flutter.dev/)
 [![Release](https://img.shields.io/github/tag/the-flx/flx_dart.svg?label=release&logo=github)](https://github.com/the-flx/flx_dart/releases/latest)
 [![pub package](https://img.shields.io/pub/v/the_flx.svg?logo=dart&logoColor=29B6F6)](https://pub.dev/packages/the_flx)
 
